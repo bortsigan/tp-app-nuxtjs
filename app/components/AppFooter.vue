@@ -10,6 +10,10 @@
                         Custom-printed tees, sleeveless, and hoodies. Heavyweight cotton,
                         hand-pulled prints, proudly made in the Philippines.
                     </p>
+                    <p class="mt-3 max-w-sm text-sm text-ink-500">
+                        Like the Demo? Check out the code on
+                        <NuxtLink to="https://github.com/bortsigan/tp-app-nuxtjs" class="text-press-dark font-bold underline hover:text-press">Github</NuxtLink>
+                    </p>
                 </div>
                 <div>
                     <h4 class="text-sm font-bold uppercase tracking-wider text-ink-900">Shop</h4>

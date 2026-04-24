@@ -2,7 +2,10 @@
 
 A small online store mock-up for a shirt printing brand. Built with Nuxt, Pinia, and Tailwind.
 
+**Live demo:** [tp-app-nuxtjs.vercel.app](https://tp-app-nuxtjs.vercel.app/)
+
 > Heads up: this is just a demo project. Products, prices, and stock are fake. No real orders go through, no payments are taken.
+
 
 ## What it does
 

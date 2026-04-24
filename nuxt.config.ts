@@ -19,7 +19,10 @@ export default defineNuxtConfig({
                         'The PRESS - PH — custom printed tees, sleeveless, and hoodies. Built for creatives, athletes, and everyone in between.',
                 },
             ],
-            link: [{ rel: 'preconnect', href: 'https://images.unsplash.com' }],
+            link: [
+                { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' },
+                { rel: 'preconnect', href: 'https://images.unsplash.com' },
+            ],
         },
     },
     runtimeConfig: {
