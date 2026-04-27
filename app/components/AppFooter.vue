@@ -7,8 +7,7 @@
                         THE PRESS <span class="text-press">— PH</span>
                     </div>
                     <p class="mt-3 max-w-sm text-sm text-ink-500">
-                        Custom-printed tees, sleeveless, and hoodies. Heavyweight cotton,
-                        hand-pulled prints, proudly made in the Philippines.
+                        Custom-printed tees, sleeveless, and hoodies. Heavyweight cotton, proudly made in the Philippines.
                     </p>
                     <p class="mt-3 max-w-sm text-sm text-ink-500">
                         Like the Demo? Check out the code on

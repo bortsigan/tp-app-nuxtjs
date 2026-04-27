@@ -5,7 +5,7 @@ export const products: Product[] = [
         id: 'tee-001',
         name: 'Manila Skyline Tee',
         description:
-            'A tribute to the city that never sleeps — 100% ring-spun cotton, screen-printed skyline across the chest for that gritty street feel.',
+            'Lowkey our love letter to Manila. 100% cotton na malambot pero matibay, with the skyline printed across the chest. It got that gritty street feel that just hits different when you wear it out.',
         category: 'tshirt',
         sizes: ['xs', 's', 'm', 'l', 'xl', 'xxl'],
         price: 699,
@@ -26,7 +26,7 @@ export const products: Product[] = [
         id: 'tee-002',
         name: 'Barkada Vibes Tee',
         description:
-            'Soft-hand screen print on heavyweight cotton. Oversized fit built for long nights, longer tambay sessions, and everything in between.',
+            'Smooth print on a heavyweight cotton you can actually feel. Oversized fit, made for long nights, longer tambay sessions, and the random 2am sisig runs with the boys.',
         category: 'tshirt',
         sizes: ['s', 'm', 'l', 'xl', 'xxl'],
         price: 749,
@@ -44,7 +44,7 @@ export const products: Product[] = [
         id: 'tee-003',
         name: 'Ink Drop Graphic Tee',
         description:
-            'Minimalist monochrome graphic. Pre-shrunk cotton with a modern tailored cut — wear it solo or layered.',
+            'Simple monochrome graphic, nothing too loud. Pre shrunk cotton with a clean tailored cut, so you can rock it on its own or throw something over it.',
         category: 'tshirt',
         sizes: ['xs', 's', 'm', 'l', 'xl'],
         price: 649,
@@ -63,7 +63,7 @@ export const products: Product[] = [
         id: 'slv-001',
         name: 'Gym Rat Sleeveless',
         description:
-            'Dropped armholes, tapered sides, and an ultra-breathable knit. Built for the platform, designed for the streets.',
+            'Wide armholes, tapered sides, and a knit that actually breathes when you start sweating. Made for the platform but honestly we wear it on the streets too.',
         category: 'sleeveless',
         sizes: ['s', 'm', 'l', 'xl', 'xxl'],
         price: 599,
@@ -83,7 +83,7 @@ export const products: Product[] = [
         id: 'slv-002',
         name: 'Iron Press Muscle Tank',
         description:
-            'Ribbed collar, dropped armholes, and moisture-wicking cotton blend. Pump cover energy, daily driver comfort.',
+            'Ribbed collar, wide armholes, and a cotton blend that wicks the sweat away. Pump cover energy on leg day, but comfy enough to wear na lang at home.',
         category: 'sleeveless',
         sizes: ['xs', 's', 'm', 'l', 'xl'],
         price: 579,
@@ -102,7 +102,7 @@ export const products: Product[] = [
         id: 'hd-001',
         name: 'Press Heavyweight Hoodie',
         description:
-            '500 GSM brushed fleece, double-lined hood, and a drop-shoulder cut. Built to outlast trends and weather.',
+            '500 GSM brushed fleece with a thick double layer hood. The kind of hoodie you keep wearing til it gets faded, and even then you still wont throw it out.',
         category: 'hoodie',
         sizes: ['s', 'm', 'l', 'xl', 'xxl'],
         price: 1499,
@@ -122,7 +122,7 @@ export const products: Product[] = [
         id: 'hd-002',
         name: 'Street Press Zip Hoodie',
         description:
-            'Full metal zip, oversized hood, and kangaroo pockets deep enough for your entire life. Midweight fleece, year-round ready.',
+            'Full metal zip, oversized hood, and pockets deep enough to fit your phone, wallet, vape, and like three receipts. Mid weight fleece you can wear pretty much all year.',
         category: 'hoodie',
         sizes: ['xs', 's', 'm', 'l', 'xl', 'xxl'],
         price: 1699,
@@ -141,7 +141,7 @@ export const products: Product[] = [
         id: 'hd-003',
         name: 'Pullover Classic Hoodie',
         description:
-            'The one that started it all. Minimalist chest press-logo, soft-wash fleece, and a fit that just works.',
+            'The OG. The one that started it all. Small press logo on the chest, soft fleece thats already broken in feeling, and a fit that just works no matter what you pair it with.',
         category: 'hoodie',
         sizes: ['s', 'm', 'l', 'xl'],
         price: 1399,
@@ -160,7 +160,7 @@ export const products: Product[] = [
         id: 'tee-004',
         name: 'Retro Press Logo Tee',
         description:
-            'Vintage-wash cotton with a puff-print logo. That "found it in your tito\'s closet" energy, but cooler.',
+            'Vintage wash cotton with a puff print logo that feels good under your fingers. Got that "naghanap ako sa closet ni tito" energy, except this one is actually fire.',
         category: 'tshirt',
         sizes: ['s', 'm', 'l', 'xl', 'xxl'],
         price: 699,
@@ -178,7 +178,7 @@ export const products: Product[] = [
         id: 'hd-004',
         name: 'Neon Press Windbreaker Hoodie',
         description:
-            'Water-resistant shell with a fleece-lined hood. Dropping soon — signal-red neon print that glows under black light.',
+            'Water resistant shell with a fleece lined hood for when the ulan hits out of nowhere. Dropping soon, with a bright neon print that actually glows under black light. Wala kang katwin sa rave.',
         category: 'hoodie',
         sizes: ['s', 'm', 'l', 'xl', 'xxl'],
         price: 1899,
@@ -198,7 +198,7 @@ export const products: Product[] = [
         id: 'tee-005',
         name: 'Summer Salt Beach Tee',
         description:
-            'Lightweight pigment-dyed cotton with a sun-faded print. Built for sandy beaches and sunburned shoulders.',
+            'Lightweight pigment dyed cotton with a print thats already a little faded on purpose. Made for sandy beaches, sunburned shoulders, and the long bus ride home after.',
         category: 'tshirt',
         sizes: ['xs', 's', 'm', 'l', 'xl', 'xxl'],
         price: 749,

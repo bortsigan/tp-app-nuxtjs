@@ -20,7 +20,7 @@
                 </h1>
                 <p class="mt-5 max-w-xl text-lg text-white/70">
                     Heavyweight cotton. Hand-pulled prints. Tees, sleeveless, and hoodies
-                    built for the grind — and for looking real good doing it.
+                    built for the grind and for looking real good doing it.
                 </p>
                 <div class="mt-8 flex flex-wrap gap-3">
                     <NuxtLink to="#catalog" class="btn-primary">
