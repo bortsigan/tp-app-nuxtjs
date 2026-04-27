@@ -19,7 +19,7 @@
                     <span class="text-press">streets</span>.
                 </h1>
                 <p class="mt-5 max-w-xl text-lg text-white/70">
-                    Heavyweight cotton. Hand-pulled prints. Tees, sleeveless, and hoodies
+                    Heavyweight cotton. Tees, sleeveless, and hoodies
                     built for the grind and for looking real good doing it.
                 </p>
                 <div class="mt-8 flex flex-wrap gap-3">

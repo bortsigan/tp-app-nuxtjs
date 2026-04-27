@@ -7,7 +7,7 @@
                         THE PRESS <span class="text-press">— PH</span>
                     </div>
                     <p class="mt-3 max-w-sm text-sm text-ink-500">
-                        Custom-printed tees, sleeveless, and hoodies. Heavyweight cotton, proudly made in the Philippines.
+                        Custom tees, sleeveless, and hoodies. Heavyweight cotton, proudly made in the Philippines.
                     </p>
                     <p class="mt-3 max-w-sm text-sm text-ink-500">
                         Like the Demo? Check out the code on
@@ -24,7 +24,7 @@
                 </div>
                 <div>
                     <h4 class="text-sm font-bold uppercase tracking-wider text-ink-900">Stay in the loop</h4>
-                    <p class="mt-3 text-sm text-ink-600">Drops, restocks, and discount codes — no spam, promise.</p>
+                    <p class="mt-3 text-sm text-ink-600">Drops, restocks, and discount codes. No spam, promise.</p>
                     <form class="mt-3 flex gap-2" @submit.prevent>
                         <input type="email" required placeholder="you@email.com" class="input" />
                         <button class="btn-primary !px-4 !py-2 text-sm">Join</button>
